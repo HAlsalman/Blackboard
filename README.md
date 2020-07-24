@@ -17,7 +17,6 @@ Contents
 3.1 Management Objectives and Priorities
 3.2 Assumptions, Dependencies, and Constraints
 3.3 Risk Management
-3.4 Staffing Plan
 4. Technical Process
 4.1 Methods, Tools, and Techniques
 4.2 Software Documentation
@@ -190,10 +189,6 @@ Steps:
 3.	System asks User if he is sure, User can select “yes”
 4.	Student is deleted from the database.
 5.	When finished user can use “exit” to logout.
-3.4 Staffing Plan
-1.	Andrew and Earnest: Design Implementation ( Programming )
-2.	Hassan and Keaton: Documentation
-3.	Daniyal : UML Diagram, SPMP & Powerpoint
 
 
 4.0 Technical Process
